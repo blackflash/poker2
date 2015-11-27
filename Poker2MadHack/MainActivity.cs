@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Poker2MadHack
 {
-    [Activity(Label = "Poker2MadHack", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Poker2MadHack", MainLauncher = false, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -22,7 +22,7 @@ namespace Poker2MadHack
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.MyButton);
+            Button button = FindViewById<Button>(Resource.Id.PlayButton);
 
             button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
         }
