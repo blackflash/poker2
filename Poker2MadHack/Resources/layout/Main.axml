@@ -8,7 +8,13 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView1" />
+        android:id="@+id/textView1"
+        android:textAlignment="inherit"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:text="@string/ApplicationName"
+        android:background="#ff1aa1f3"
+        android:height="50dp"
+        android:minHeight="50dp" />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
