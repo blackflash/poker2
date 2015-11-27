@@ -1,9 +1,0 @@
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\Poker2MadHack.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\mscorlib.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.Core.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.Xml.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.Xml.Linq.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.Runtime.Serialization.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\assemblies\System.ServiceModel.Internals.dll
