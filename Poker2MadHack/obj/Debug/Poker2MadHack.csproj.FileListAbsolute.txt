@@ -14,5 +14,6 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\R.cs.flag
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\uploadflags.txt
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\res\drawable\splash.png
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\res\drawable\logo.jpg
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\Poker2MadHack.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.dll.mdb

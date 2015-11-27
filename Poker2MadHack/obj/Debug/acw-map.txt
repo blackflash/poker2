@@ -1,3 +1,7 @@
+Poker2MadHack.Activity1, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.Activity1
+Poker2MadHack.Activity1, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.Activity1
+Poker2MadHack.Activity1;md52528fdd87ba99953e8081a73a9416d82.Activity1
+poker2madhack.Activity1;md52528fdd87ba99953e8081a73a9416d82.Activity1
 Poker2MadHack.MainActivity, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.MainActivity
 Poker2MadHack.MainActivity, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.MainActivity
 Poker2MadHack.MainActivity;md52528fdd87ba99953e8081a73a9416d82.MainActivity
