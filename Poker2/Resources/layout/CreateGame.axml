@@ -5,40 +5,96 @@
     android:layout_height="match_parent"
     android:minWidth="25px"
     android:minHeight="25px">
-    <TextView
-        android:text="Number of players"
-        android:textAppearance="?android:attr/textAppearanceLarge"
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView1" />
-    <EditText
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Number of players"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_weight="0.75" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/numberofplayers"
+            android:inputType="number"
+            android:layout_weight="0.25" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/numberofplayers" />
-    <TextView
-        android:text="Number of hours you want to play"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/linearLayout2">
+        <TextView
+            android:text="Number of hours you want to play"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_weight="0.75" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/numberofhours"
+            android:layout_weight="0.25" />
+    </LinearLayout>
+<!--<LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
-    <EditText
+        android:id="@+id/linearLayout3">
+        <Button
+            android:text="Calculate Time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:id="@+id/calculate" />
+        <TextView
+            android:text="Time per blind :"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:id="@+id/textView3" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="0dp"
+            android:layout_weight="0.25"
+            android:layout_height="wrap_content"
+            android:id="@+id/timeperblindtext" />
+    </LinearLayout>-->
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/numberofhours" />
+        android:id="@+id/linearLayout3">
+        <TextView
+            android:text="Buyin"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textView3"
+            android:layout_weight="0.75" />
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/buyin"
+            android:layout_weight="0.25"
+            android:inputType="number" />
+    </LinearLayout>
     <Button
-        android:text="Calculate Time"
+        android:text="Start Game"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/calculate" />
-    <TextView
-        android:text="Time per blind :"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView3" />
-    <TextView
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/timeperblindtext" />
+        android:id="@+id/startgame" />
 </LinearLayout>

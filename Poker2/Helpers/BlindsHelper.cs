@@ -1,14 +1,13 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
+using Poker2.Models;
 
-using Poker2.Resources.Models;
-
-namespace Poker2.Resources.Helpers
+namespace Poker2.Helpers
 {
+    [Serializable]
     public class BlindsHelper
     {
         private const int startingChips = 5000;
+        public int maxBBindex;
         public readonly Blind[]
             Blinds;
 
@@ -45,7 +44,7 @@ namespace Poker2.Resources.Helpers
             var ms = Convert.ToInt32(hoursToMS);
 
             var firstResult = (numberOfPlayers * startingChips) / 10;
-            var maxBBindex = GetBlindClosestTotheSum(firstResult);
+            maxBBindex = GetBlindClosestTotheSum(firstResult);
             var time = ms / maxBBindex;
 
             return time;

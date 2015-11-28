@@ -1,7 +1,7 @@
 using Android.App;
 using Android.Content.PM;
 using Android.OS;
-using Poker2.Resources.Helpers;
+using Poker2.Helpers;
 
 
 namespace Poker2
@@ -13,7 +13,7 @@ namespace Poker2
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.CreateGame);
-            var createGamebutton = FindViewById<Android.Widget.Button>(Resource.Id.calculate);
+            var createGamebutton = FindViewById<Android.Widget.Button>(Resource.Id.startgame);
             createGamebutton.Click += delegate
             {
                 var blindhelper = new BlindsHelper();
@@ -28,8 +28,8 @@ namespace Poker2
                 {
                     var timeinMS = blindhelper.GetBlindTimeInMS(hoursD, playersD);
                     var timeinMin = timeinMS/1000/60; 
-                    var resulttext = FindViewById<Android.Widget.TextView>(Resource.Id.timeperblindtext);
-                    resulttext.Text = timeinMin + " minutes";
+                    //var resulttext = FindViewById<Android.Widget.TextView>(Resource.Id.timeperblindtext);
+                    //resulttext.Text = timeinMin + " minutes";
                 }
 
             };
