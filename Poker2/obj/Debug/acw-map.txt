@@ -1,0 +1,16 @@
+Poker2MadHack.CreateGame, Poker2;md570e47dbe4c6b4687495c0e44e7f245d0.CreateGame
+Poker2MadHack.CreateGame, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e47dbe4c6b4687495c0e44e7f245d0.CreateGame
+Poker2MadHack.CreateGame;md570e47dbe4c6b4687495c0e44e7f245d0.CreateGame
+poker2madhack.CreateGame;md570e47dbe4c6b4687495c0e44e7f245d0.CreateGame
+Poker2MadHack.JoinGame, Poker2;md570e47dbe4c6b4687495c0e44e7f245d0.JoinGame
+Poker2MadHack.JoinGame, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e47dbe4c6b4687495c0e44e7f245d0.JoinGame
+Poker2MadHack.JoinGame;md570e47dbe4c6b4687495c0e44e7f245d0.JoinGame
+poker2madhack.JoinGame;md570e47dbe4c6b4687495c0e44e7f245d0.JoinGame
+Poker2MadHack.MainActivity, Poker2;md570e47dbe4c6b4687495c0e44e7f245d0.MainActivity
+Poker2MadHack.MainActivity, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e47dbe4c6b4687495c0e44e7f245d0.MainActivity
+Poker2MadHack.MainActivity;md570e47dbe4c6b4687495c0e44e7f245d0.MainActivity
+poker2madhack.MainActivity;md570e47dbe4c6b4687495c0e44e7f245d0.MainActivity
+Poker2MadHack.SplashActivity, Poker2;md570e47dbe4c6b4687495c0e44e7f245d0.SplashActivity
+Poker2MadHack.SplashActivity, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e47dbe4c6b4687495c0e44e7f245d0.SplashActivity
+Poker2MadHack.SplashActivity;md570e47dbe4c6b4687495c0e44e7f245d0.SplashActivity
+poker2madhack.SplashActivity;md570e47dbe4c6b4687495c0e44e7f245d0.SplashActivity
