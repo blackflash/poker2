@@ -22,6 +22,7 @@ C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Poker2.dll
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Poker2.pdb
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Poker2.Poker2.apk
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Poker2.Poker2-Signed.apk
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\com.refractored.monodroidtoolkit.dll
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\FormsViewGroup.dll
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Xamarin.Android.Support.Design.dll
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\Xamarin.Android.Support.v4.dll
@@ -48,5 +49,3 @@ C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\res\drawable\splash.png
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\res\values\styles.xml
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\R.cs.flag
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\uploadflags.txt
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\Poker2.csprojResolveAssemblyReference.cache
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\com.refractored.monodroidtoolkit.dll
