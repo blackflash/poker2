@@ -2,7 +2,6 @@ using System.Threading;
 using Android.App;
 using Android.Content.PM;
 using Android.OS;
-using Poker2MadHack;
 
 namespace Poker2
 {

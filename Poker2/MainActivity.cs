@@ -2,7 +2,6 @@
 using Android.Content.PM;
 using Android.OS;
 using Android.Widget;
-using Poker2MadHack;
 
 namespace Poker2
 {
@@ -24,8 +23,8 @@ namespace Poker2
             var createGamebutton = FindViewById<Button>(Resource.Id.CreateGameButton);
             createGamebutton.Click += delegate { StartActivity(typeof(CreateGame));};
         
-            var joinGamebutton = FindViewById<Button>(Resource.Id.JoinGameButton);
-            joinGamebutton.Click += delegate { StartActivity(typeof(JoinGame)); };
+            //var joinGamebutton = FindViewById<Button>(Resource.Id.JoinGameButton);
+            //joinGamebutton.Click += delegate { StartActivity(typeof(JoinGame)); };
         }
     }
 }
