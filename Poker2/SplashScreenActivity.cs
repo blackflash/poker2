@@ -11,7 +11,7 @@ namespace Poker2
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            Thread.Sleep(10000); // Simulate a long loading process on app startup.
+            //Thread.Sleep(10000); // Simulate a long loading process on app startup.
             StartActivity(typeof(MainActivity));
         }
     }
