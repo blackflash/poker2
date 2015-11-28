@@ -103,6 +103,7 @@
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\drawable\playButton.png" />
     <AndroidResource Include="Resources\layout\CreateGame.axml" />
     <AndroidResource Include="Resources\layout\JoinGame.axml" />
   </ItemGroup>

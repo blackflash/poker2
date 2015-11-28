@@ -1,6 +1,6 @@
 using Android.App;
 using Android.OS;
-using Xamarin.Forms;
+
 
 namespace Poker2
 {

@@ -3,6 +3,7 @@ using Android.Content.PM;
 using Android.OS;
 using Android.Widget;
 
+
 namespace Poker2
 {
     [Activity(Label = "Poker2MadHack", MainLauncher = false,ScreenOrientation = ScreenOrientation.Landscape, Icon = "@drawable/icon")]
@@ -20,9 +21,9 @@ namespace Poker2
             // Get our button from the layout resource,
             // and attach an event to it
 
-            var createGamebutton = FindViewById<Button>(Resource.Id.CreateGameButton);
-            createGamebutton.Click += delegate { StartActivity(typeof(CreateGame));};
-        
+            var createGameButton = FindViewById<ImageButton>(Resource.Id.myButton);
+            createGameButton.Click += delegate { StartActivity(typeof(CreateGame));};
+
             //var joinGamebutton = FindViewById<Button>(Resource.Id.JoinGameButton);
             //joinGamebutton.Click += delegate { StartActivity(typeof(JoinGame)); };
         }

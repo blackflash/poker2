@@ -2281,11 +2281,11 @@ containing a value of this type.
         public static final int mr_ic_play_light=0x7f020062;
         public static final int mr_ic_settings_dark=0x7f020063;
         public static final int mr_ic_settings_light=0x7f020064;
-        public static final int notification_template_icon_bg=0x7f020066;
-        public static final int splash=0x7f020065;
+        public static final int notification_template_icon_bg=0x7f020067;
+        public static final int playbutton=0x7f020065;
+        public static final int splash=0x7f020066;
     }
     public static final class id {
-        public static final int CreateGameButton=0x7f0b0067;
         public static final int action0=0x7f0b0076;
         public static final int action_bar=0x7f0b0055;
         public static final int action_bar_activity_content=0x7f0b0000;
@@ -2357,6 +2357,7 @@ containing a value of this type.
         public static final int middle=0x7f0b001b;
         public static final int mini=0x7f0b0035;
         public static final int multiply=0x7f0b0014;
+        public static final int myButton=0x7f0b0067;
         public static final int never=0x7f0b001f;
         public static final int none=0x7f0b000f;
         public static final int normal=0x7f0b000b;

@@ -3315,11 +3315,14 @@ namespace Poker2
 			// aapt resource value: 0x7f020064
 			public const int mr_ic_settings_light = 2130837604;
 			
-			// aapt resource value: 0x7f020066
-			public const int notification_template_icon_bg = 2130837606;
+			// aapt resource value: 0x7f020067
+			public const int notification_template_icon_bg = 2130837607;
 			
 			// aapt resource value: 0x7f020065
-			public const int splash = 2130837605;
+			public const int playButton = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int splash = 2130837606;
 			
 			static Drawable()
 			{
@@ -3333,9 +3336,6 @@ namespace Poker2
 		
 		public partial class Id
 		{
-			
-			// aapt resource value: 0x7f0b0067
-			public const int CreateGameButton = 2131427431;
 			
 			// aapt resource value: 0x7f0b0076
 			public const int action0 = 2131427446;
@@ -3549,6 +3549,9 @@ namespace Poker2
 			
 			// aapt resource value: 0x7f0b0014
 			public const int multiply = 2131427348;
+			
+			// aapt resource value: 0x7f0b0067
+			public const int myButton = 2131427431;
 			
 			// aapt resource value: 0x7f0b001f
 			public const int never = 2131427359;
