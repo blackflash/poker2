@@ -1,9 +1,0 @@
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\poker2.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\poker2.pdb
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\obj\Debug\poker2.csprojResolveAssemblyReference.cache
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\obj\Debug\poker2.dll
-C:\Users\Andrej\Documents\GitHub\poker2\Poker2Xamarin\poker2\poker2\poker2\obj\Debug\poker2.pdb

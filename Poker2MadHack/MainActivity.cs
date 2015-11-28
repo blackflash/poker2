@@ -6,8 +6,6 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-
-
 namespace Poker2MadHack
 {
     [Activity(Label = "Poker2MadHack", MainLauncher = true, Icon = "@drawable/icon")]
