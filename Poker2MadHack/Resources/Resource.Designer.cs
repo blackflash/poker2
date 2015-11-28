@@ -69,26 +69,14 @@ namespace Poker2MadHack
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060006
-			public const int PlayButton = 2131099654;
-			
 			// aapt resource value: 0x7f060001
-			public const int editText1 = 2131099649;
+			public const int CreateGameButton = 2131099649;
 			
-			// aapt resource value: 0x7f060003
-			public const int editText2 = 2131099651;
-			
-			// aapt resource value: 0x7f060005
-			public const int editText3 = 2131099653;
+			// aapt resource value: 0x7f060002
+			public const int JoinGameButton = 2131099650;
 			
 			// aapt resource value: 0x7f060000
 			public const int textView1 = 2131099648;
-			
-			// aapt resource value: 0x7f060002
-			public const int textView2 = 2131099650;
-			
-			// aapt resource value: 0x7f060004
-			public const int textView3 = 2131099652;
 			
 			static Id()
 			{
@@ -104,7 +92,13 @@ namespace Poker2MadHack
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int CreateGame = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int JoinGame = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Main = 2130903042;
 			
 			static Layout()
 			{

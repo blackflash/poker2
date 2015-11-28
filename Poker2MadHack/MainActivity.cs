@@ -1,6 +1,7 @@
 ﻿using System;
 using Android.App;
 using Android.Content;
+using Android.Content.PM;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
@@ -8,7 +9,7 @@ using Android.OS;
 
 namespace Poker2MadHack
 {
-    [Activity(Label = "Poker2MadHack", MainLauncher = false, Icon = "@drawable/icon")]
+    [Activity(Label = "Poker2MadHack", MainLauncher = false,ScreenOrientation = ScreenOrientation.Landscape, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -22,9 +23,11 @@ namespace Poker2MadHack
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.PlayButton);
+            var createGamebutton = FindViewById<Button>(Resource.Id.CreateGameButton);
+            createGamebutton.Click += delegate { StartActivity(typeof(CreateGame));};
 
-            button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
+            var joinGamebutton = FindViewById<Button>(Resource.Id.JoinGameButton);
+            joinGamebutton.Click += delegate { StartActivity(typeof(JoinGame)); };
         }
     }
 }

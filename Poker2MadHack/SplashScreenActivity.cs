@@ -25,7 +25,7 @@ namespace Poker2MadHack
         {
             base.OnCreate(bundle);
             Thread.Sleep(10000); // Simulate a long loading process on app startup.
-            //StartActivity(typeof(MainActivity));
+            StartActivity(typeof(MainActivity));
         }
     }
 }

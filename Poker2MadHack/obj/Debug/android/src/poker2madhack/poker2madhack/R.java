@@ -17,16 +17,14 @@ public final class R {
         public static final int splash=0x7f020003;
     }
     public static final class id {
-        public static final int PlayButton=0x7f060006;
-        public static final int editText1=0x7f060001;
-        public static final int editText2=0x7f060003;
-        public static final int editText3=0x7f060005;
+        public static final int CreateGameButton=0x7f060001;
+        public static final int JoinGameButton=0x7f060002;
         public static final int textView1=0x7f060000;
-        public static final int textView2=0x7f060002;
-        public static final int textView3=0x7f060004;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int creategame=0x7f030000;
+        public static final int joingame=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040001;
