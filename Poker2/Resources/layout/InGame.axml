@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:minWidth="25px"
@@ -11,4 +11,9 @@
         android:layout_height="wrap_content"
         android:src="@drawable/playButton"
         android:background="@drawable/playbutton" />
+    <com.refractored.monodroidtoolkit.HoloCircularProgressBar
+        android:id="@+id/holoCircularProgressBar1"
+        android:layout_width="wrap_content"
+        android:layout_above="@+id/switch_theme"
+        android:layout_height="fill_parent" />
 </LinearLayout>
