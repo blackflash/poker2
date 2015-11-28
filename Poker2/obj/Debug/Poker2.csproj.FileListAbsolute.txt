@@ -49,3 +49,4 @@ C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\res\values\styles.xml
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\R.cs.flag
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\uploadflags.txt
 C:\Users\Andrej\Documents\GitHub\poker2\Poker2\obj\Debug\Poker2.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2\bin\Debug\com.refractored.monodroidtoolkit.dll

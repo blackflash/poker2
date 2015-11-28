@@ -420,6 +420,103 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int checkedTextViewStyle=0x7f0100c5;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circleColor=0x7f01011b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int circularProgressBarStyle=0x7f01012c;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>clip</code></td><td>0x88</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+</table>
+         */
+        public static final int circular_gravity=0x7f010124;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_indeterminate=0x7f01012a;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_indeterminate_interval=0x7f01012b;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_marker_progress=0x7f010127;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_progress=0x7f010126;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_progress_background_color=0x7f010129;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_progress_color=0x7f010128;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int circular_stroke_width=0x7f010125;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -947,10 +1044,26 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int iconifiedByDefault=0x7f01004e;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int indeterminate=0x7f010122;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int indeterminateProgressStyle=0x7f010026;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int indeterminate_interval=0x7f010123;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -959,6 +1072,16 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int initialActivityCount=0x7f010031;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int innerSize=0x7f010120;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
@@ -1179,6 +1302,14 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int logoDescription=0x7f0100d7;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int max=0x7f01011a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1317,6 +1448,18 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int panelMenuListWidth=0x7f0100ad;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pinned=0x7f010121;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int pinnedDrawable=0x7f01011d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1347,6 +1490,14 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int pressedTranslationZ=0x7f0100f9;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int progress=0x7f010119;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1361,6 +1512,19 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int progressBarStyle=0x7f010025;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int progressButtonStyle=0x7f010118;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int progressColor=0x7f01011c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1410,6 +1574,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int selectableItemBackgroundBorderless=0x7f010094;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int shadowDrawable=0x7f01011f;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1869,6 +2037,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
+        public static final int unpinnedDrawable=0x7f01011e;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
         public static final int voiceIcon=0x7f010055;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -1991,20 +2163,20 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090006;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f080047;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f080048;
-        public static final int abc_color_highlight_material=0x7f080049;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f080066;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f080067;
+        public static final int abc_color_highlight_material=0x7f080068;
         public static final int abc_input_method_navigation_guard=0x7f080004;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f08004a;
-        public static final int abc_primary_text_disable_only_material_light=0x7f08004b;
-        public static final int abc_primary_text_material_dark=0x7f08004c;
-        public static final int abc_primary_text_material_light=0x7f08004d;
-        public static final int abc_search_url_text=0x7f08004e;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f080069;
+        public static final int abc_primary_text_disable_only_material_light=0x7f08006a;
+        public static final int abc_primary_text_material_dark=0x7f08006b;
+        public static final int abc_primary_text_material_light=0x7f08006c;
+        public static final int abc_search_url_text=0x7f08006d;
         public static final int abc_search_url_text_normal=0x7f080005;
         public static final int abc_search_url_text_pressed=0x7f080006;
         public static final int abc_search_url_text_selected=0x7f080007;
-        public static final int abc_secondary_text_material_dark=0x7f08004f;
-        public static final int abc_secondary_text_material_light=0x7f080050;
+        public static final int abc_secondary_text_material_dark=0x7f08006e;
+        public static final int abc_secondary_text_material_light=0x7f08006f;
         public static final int accent_material_dark=0x7f080008;
         public static final int accent_material_light=0x7f080009;
         public static final int background_floating_material_dark=0x7f08000a;
@@ -2062,6 +2234,57 @@ containing a value of this type.
         public static final int primary_text_default_material_light=0x7f080031;
         public static final int primary_text_disabled_material_dark=0x7f080032;
         public static final int primary_text_disabled_material_light=0x7f080033;
+        public static final int progress_default_circle_color=0x7f080047;
+        public static final int progress_default_progress_color=0x7f080048;
+        public static final int refractored_background_dark=0x7f080049;
+        public static final int refractored_background_holo_dark=0x7f08004e;
+        public static final int refractored_background_holo_light=0x7f08004f;
+        public static final int refractored_background_light=0x7f08004a;
+        public static final int refractored_bright_foreground_dark=0x7f08004b;
+        public static final int refractored_bright_foreground_dark_disabled=0x7f08004d;
+        public static final int refractored_bright_foreground_disabled_holo_dark=0x7f080052;
+        public static final int refractored_bright_foreground_disabled_holo_light=0x7f080053;
+        public static final int refractored_bright_foreground_holo_dark=0x7f080050;
+        public static final int refractored_bright_foreground_holo_light=0x7f080051;
+        public static final int refractored_bright_foreground_light=0x7f08004c;
+        public static final int refractored_dim_foreground_disabled_holo_dark=0x7f080055;
+        public static final int refractored_dim_foreground_disabled_holo_light=0x7f080058;
+        public static final int refractored_dim_foreground_holo_dark=0x7f080054;
+        public static final int refractored_dim_foreground_holo_light=0x7f080057;
+        public static final int refractored_highlighted_text_holo_dark=0x7f08005a;
+        public static final int refractored_highlighted_text_holo_light=0x7f08005b;
+        public static final int refractored_hint_foreground_holo_dark=0x7f080056;
+        public static final int refractored_hint_foreground_holo_light=0x7f080059;
+        /**  A really bright Holo shade of blue 
+         */
+        public static final int refractored_holo_blue_bright=0x7f080065;
+        /**  A dark Holo shade of blue 
+         */
+        public static final int refractored_holo_blue_dark=0x7f08005f;
+        /**  A light Holo shade of blue 
+         */
+        public static final int refractored_holo_blue_light=0x7f08005c;
+        /**  A dark Holo shade of green 
+         */
+        public static final int refractored_holo_green_dark=0x7f080060;
+        /**  A light Holo shade of green 
+         */
+        public static final int refractored_holo_green_light=0x7f08005d;
+        /**  A dark Holo shade of orange 
+         */
+        public static final int refractored_holo_orange_dark=0x7f080064;
+        /**  A light Holo shade of orange 
+         */
+        public static final int refractored_holo_orange_light=0x7f080063;
+        /**  A Holo shade of purple 
+         */
+        public static final int refractored_holo_purple=0x7f080062;
+        /**  A dark Holo shade of red 
+         */
+        public static final int refractored_holo_red_dark=0x7f080061;
+        /**  A light Holo shade of red 
+         */
+        public static final int refractored_holo_red_light=0x7f08005e;
         public static final int ripple_material_dark=0x7f080034;
         public static final int ripple_material_light=0x7f080035;
         public static final int secondary_text_default_material_dark=0x7f080036;
@@ -2070,8 +2293,8 @@ containing a value of this type.
         public static final int secondary_text_disabled_material_light=0x7f080039;
         public static final int switch_thumb_disabled_material_dark=0x7f08003a;
         public static final int switch_thumb_disabled_material_light=0x7f08003b;
-        public static final int switch_thumb_material_dark=0x7f080051;
-        public static final int switch_thumb_material_light=0x7f080052;
+        public static final int switch_thumb_material_dark=0x7f080070;
+        public static final int switch_thumb_material_light=0x7f080071;
         public static final int switch_thumb_normal_material_dark=0x7f08003c;
         public static final int switch_thumb_normal_material_light=0x7f08003d;
     }
@@ -2178,6 +2401,7 @@ containing a value of this type.
         public static final int notification_large_icon_height=0x7f060049;
         public static final int notification_large_icon_width=0x7f06004a;
         public static final int notification_subtext_size=0x7f06004b;
+        public static final int progress_inner_size=0x7f060066;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -2281,137 +2505,144 @@ containing a value of this type.
         public static final int mr_ic_play_light=0x7f020062;
         public static final int mr_ic_settings_dark=0x7f020063;
         public static final int mr_ic_settings_light=0x7f020064;
-        public static final int notification_template_icon_bg=0x7f020067;
-        public static final int playbutton=0x7f020065;
-        public static final int splash=0x7f020066;
+        public static final int notification_template_icon_bg=0x7f02006c;
+        public static final int pin_progress_pinned=0x7f020065;
+        public static final int pin_progress_shadow=0x7f020066;
+        public static final int pin_progress_unpinned=0x7f020067;
+        public static final int playbutton=0x7f020068;
+        public static final int scrubber_control_normal_holo=0x7f020069;
+        public static final int scrubber_control_pressed_holo=0x7f02006a;
+        public static final int splash=0x7f02006b;
     }
     public static final class id {
-        public static final int action0=0x7f0b0076;
-        public static final int action_bar=0x7f0b0055;
+        public static final int action0=0x7f0b0078;
+        public static final int action_bar=0x7f0b0056;
         public static final int action_bar_activity_content=0x7f0b0000;
-        public static final int action_bar_container=0x7f0b0054;
-        public static final int action_bar_root=0x7f0b0050;
+        public static final int action_bar_container=0x7f0b0055;
+        public static final int action_bar_root=0x7f0b0051;
         public static final int action_bar_spinner=0x7f0b0001;
-        public static final int action_bar_subtitle=0x7f0b0039;
-        public static final int action_bar_title=0x7f0b0038;
-        public static final int action_context_bar=0x7f0b0056;
-        public static final int action_divider=0x7f0b007a;
+        public static final int action_bar_subtitle=0x7f0b003a;
+        public static final int action_bar_title=0x7f0b0039;
+        public static final int action_context_bar=0x7f0b0057;
+        public static final int action_divider=0x7f0b007c;
         public static final int action_menu_divider=0x7f0b0002;
         public static final int action_menu_presenter=0x7f0b0003;
-        public static final int action_mode_bar=0x7f0b0052;
-        public static final int action_mode_bar_stub=0x7f0b0051;
-        public static final int action_mode_close_button=0x7f0b003a;
-        public static final int activity_chooser_view_content=0x7f0b003b;
-        public static final int alertTitle=0x7f0b0045;
+        public static final int action_mode_bar=0x7f0b0053;
+        public static final int action_mode_bar_stub=0x7f0b0052;
+        public static final int action_mode_close_button=0x7f0b003b;
+        public static final int activity_chooser_view_content=0x7f0b003c;
+        public static final int alertTitle=0x7f0b0046;
         public static final int always=0x7f0b001c;
-        public static final int art=0x7f0b006e;
+        public static final int art=0x7f0b0070;
         public static final int beginning=0x7f0b0019;
         public static final int bottom=0x7f0b0028;
-        public static final int buttonPanel=0x7f0b004b;
-        public static final int buttons=0x7f0b0073;
-        public static final int cancel_action=0x7f0b0077;
+        public static final int buttonPanel=0x7f0b004c;
+        public static final int buttons=0x7f0b0075;
+        public static final int cancel_action=0x7f0b0079;
         public static final int center=0x7f0b0029;
         public static final int center_horizontal=0x7f0b002a;
         public static final int center_vertical=0x7f0b002b;
-        public static final int checkbox=0x7f0b004d;
-        public static final int chronometer=0x7f0b007d;
+        public static final int checkbox=0x7f0b004e;
+        public static final int chronometer=0x7f0b007f;
+        public static final int clip=0x7f0b0038;
         public static final int clip_horizontal=0x7f0b0031;
         public static final int clip_vertical=0x7f0b0032;
         public static final int collapseActionView=0x7f0b001d;
-        public static final int contentPanel=0x7f0b0046;
-        public static final int custom=0x7f0b004a;
-        public static final int customPanel=0x7f0b0049;
-        public static final int decor_content_parent=0x7f0b0053;
-        public static final int default_activity_button=0x7f0b003e;
-        public static final int default_control_frame=0x7f0b006d;
+        public static final int contentPanel=0x7f0b0047;
+        public static final int custom=0x7f0b004b;
+        public static final int customPanel=0x7f0b004a;
+        public static final int decor_content_parent=0x7f0b0054;
+        public static final int default_activity_button=0x7f0b003f;
+        public static final int default_control_frame=0x7f0b006f;
         public static final int disableHome=0x7f0b000d;
-        public static final int disconnect=0x7f0b0074;
-        public static final int edit_query=0x7f0b0057;
+        public static final int disconnect=0x7f0b0076;
+        public static final int edit_query=0x7f0b0058;
         public static final int end=0x7f0b001a;
-        public static final int end_padder=0x7f0b0082;
+        public static final int end_padder=0x7f0b0084;
         public static final int enterAlways=0x7f0b0022;
         public static final int enterAlwaysCollapsed=0x7f0b0023;
         public static final int exitUntilCollapsed=0x7f0b0024;
-        public static final int expand_activities_button=0x7f0b003c;
-        public static final int expanded_menu=0x7f0b004c;
+        public static final int expand_activities_button=0x7f0b003d;
+        public static final int expanded_menu=0x7f0b004d;
         public static final int fill=0x7f0b0033;
         public static final int fill_horizontal=0x7f0b0034;
         public static final int fill_vertical=0x7f0b002c;
         public static final int fixed=0x7f0b0036;
+        public static final int holoCircularProgressBar1=0x7f0b0069;
         public static final int home=0x7f0b0004;
         public static final int homeAsUp=0x7f0b000e;
-        public static final int icon=0x7f0b0040;
+        public static final int icon=0x7f0b0041;
         public static final int ifRoom=0x7f0b001e;
-        public static final int image=0x7f0b003d;
-        public static final int info=0x7f0b0081;
+        public static final int image=0x7f0b003e;
+        public static final int info=0x7f0b0083;
         public static final int left=0x7f0b002d;
-        public static final int line1=0x7f0b007b;
-        public static final int line3=0x7f0b007f;
+        public static final int line1=0x7f0b007d;
+        public static final int line3=0x7f0b0081;
         public static final int listMode=0x7f0b000a;
-        public static final int list_item=0x7f0b003f;
-        public static final int media_actions=0x7f0b0079;
-        public static final int media_route_control_frame=0x7f0b006c;
-        public static final int media_route_list=0x7f0b0068;
-        public static final int media_route_volume_layout=0x7f0b0071;
-        public static final int media_route_volume_slider=0x7f0b0072;
+        public static final int list_item=0x7f0b0040;
+        public static final int media_actions=0x7f0b007b;
+        public static final int media_route_control_frame=0x7f0b006e;
+        public static final int media_route_list=0x7f0b006a;
+        public static final int media_route_volume_layout=0x7f0b0073;
+        public static final int media_route_volume_slider=0x7f0b0074;
         public static final int middle=0x7f0b001b;
         public static final int mini=0x7f0b0035;
         public static final int multiply=0x7f0b0014;
-        public static final int myButton=0x7f0b0067;
+        public static final int myButton=0x7f0b0068;
         public static final int never=0x7f0b001f;
         public static final int none=0x7f0b000f;
         public static final int normal=0x7f0b000b;
         public static final int parallax=0x7f0b0026;
-        public static final int parentPanel=0x7f0b0042;
+        public static final int parentPanel=0x7f0b0043;
         public static final int pin=0x7f0b0027;
-        public static final int play_pause=0x7f0b006f;
+        public static final int play_pause=0x7f0b0071;
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
-        public static final int radio=0x7f0b004f;
+        public static final int radio=0x7f0b0050;
         public static final int right=0x7f0b002e;
-        public static final int route_name=0x7f0b006a;
+        public static final int route_name=0x7f0b006c;
         public static final int screen=0x7f0b0015;
         public static final int scroll=0x7f0b0025;
-        public static final int scrollView=0x7f0b0047;
+        public static final int scrollView=0x7f0b0048;
         public static final int scrollable=0x7f0b0037;
-        public static final int search_badge=0x7f0b0059;
-        public static final int search_bar=0x7f0b0058;
-        public static final int search_button=0x7f0b005a;
-        public static final int search_close_btn=0x7f0b005f;
-        public static final int search_edit_frame=0x7f0b005b;
-        public static final int search_go_btn=0x7f0b0061;
-        public static final int search_mag_icon=0x7f0b005c;
-        public static final int search_plate=0x7f0b005d;
-        public static final int search_src_text=0x7f0b005e;
-        public static final int search_voice_btn=0x7f0b0062;
-        public static final int select_dialog_listview=0x7f0b0063;
-        public static final int settings=0x7f0b006b;
-        public static final int shortcut=0x7f0b004e;
+        public static final int search_badge=0x7f0b005a;
+        public static final int search_bar=0x7f0b0059;
+        public static final int search_button=0x7f0b005b;
+        public static final int search_close_btn=0x7f0b0060;
+        public static final int search_edit_frame=0x7f0b005c;
+        public static final int search_go_btn=0x7f0b0062;
+        public static final int search_mag_icon=0x7f0b005d;
+        public static final int search_plate=0x7f0b005e;
+        public static final int search_src_text=0x7f0b005f;
+        public static final int search_voice_btn=0x7f0b0063;
+        public static final int select_dialog_listview=0x7f0b0064;
+        public static final int settings=0x7f0b006d;
+        public static final int shortcut=0x7f0b004f;
         public static final int showCustom=0x7f0b0010;
         public static final int showHome=0x7f0b0011;
         public static final int showTitle=0x7f0b0012;
-        public static final int snackbar_action=0x7f0b0066;
-        public static final int snackbar_text=0x7f0b0065;
+        public static final int snackbar_action=0x7f0b0067;
+        public static final int snackbar_text=0x7f0b0066;
         public static final int split_action_bar=0x7f0b0007;
         public static final int src_atop=0x7f0b0016;
         public static final int src_in=0x7f0b0017;
         public static final int src_over=0x7f0b0018;
         public static final int start=0x7f0b002f;
-        public static final int status_bar_latest_event_content=0x7f0b0078;
-        public static final int stop=0x7f0b0075;
-        public static final int submit_area=0x7f0b0060;
-        public static final int subtitle=0x7f0b0070;
+        public static final int status_bar_latest_event_content=0x7f0b007a;
+        public static final int stop=0x7f0b0077;
+        public static final int submit_area=0x7f0b0061;
+        public static final int subtitle=0x7f0b0072;
         public static final int tabMode=0x7f0b000c;
-        public static final int text=0x7f0b0080;
-        public static final int text2=0x7f0b007e;
-        public static final int textSpacerNoButtons=0x7f0b0048;
-        public static final int textView1=0x7f0b0064;
-        public static final int time=0x7f0b007c;
-        public static final int title=0x7f0b0041;
-        public static final int title_bar=0x7f0b0069;
-        public static final int title_template=0x7f0b0044;
+        public static final int text=0x7f0b0082;
+        public static final int text2=0x7f0b0080;
+        public static final int textSpacerNoButtons=0x7f0b0049;
+        public static final int textView1=0x7f0b0065;
+        public static final int time=0x7f0b007e;
+        public static final int title=0x7f0b0042;
+        public static final int title_bar=0x7f0b006b;
+        public static final int title_template=0x7f0b0045;
         public static final int top=0x7f0b0030;
-        public static final int topPanel=0x7f0b0043;
+        public static final int topPanel=0x7f0b0044;
         public static final int up=0x7f0b0008;
         public static final int useLogo=0x7f0b0013;
         public static final int view_offset_helper=0x7f0b0009;
@@ -2423,7 +2654,9 @@ containing a value of this type.
         public static final int abc_config_activityShortDur=0x7f0a0002;
         public static final int abc_max_action_buttons=0x7f0a0000;
         public static final int cancel_button_image_alpha=0x7f0a0003;
+        public static final int circular_indeterminent_interval=0x7f0a0007;
         public static final int design_snackbar_text_max_lines=0x7f0a0005;
+        public static final int progressbutton_indeterminent_interval=0x7f0a0006;
         public static final int status_bar_notification_info_maxnum=0x7f0a0004;
     }
     public static final class layout {
@@ -2518,6 +2751,7 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f070082;
         public static final int Animation_AppCompat_Dialog=0x7f070083;
         public static final int Animation_AppCompat_DropDownUp=0x7f070084;
+        public static final int AppTheme=0x7f070149;
         public static final int Base_AlertDialog_AppCompat=0x7f070085;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f070086;
         public static final int Base_Animation_AppCompat_Dialog=0x7f070087;
@@ -2660,7 +2894,9 @@ containing a value of this type.
         public static final int CardView=0x7f070004;
         public static final int CardView_Dark=0x7f070005;
         public static final int CardView_Light=0x7f070006;
-        public static final int Mono_Android_Theme_Splash=0x7f070145;
+        public static final int CircularProgressBar=0x7f070146;
+        public static final int CircularProgressBarLight=0x7f070147;
+        public static final int Mono_Android_Theme_Splash=0x7f07014a;
         public static final int Platform_AppCompat=0x7f070016;
         public static final int Platform_AppCompat_Light=0x7f070017;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f070078;
@@ -2671,6 +2907,10 @@ containing a value of this type.
         public static final int Platform_V14_AppCompat=0x7f070020;
         public static final int Platform_V14_AppCompat_Light=0x7f070021;
         public static final int Platform_Widget_AppCompat_Spinner=0x7f07001a;
+        public static final int ProgressButton=0x7f070144;
+        /**  Base theme for the Progress button. 
+         */
+        public static final int ProgressButton_Pin=0x7f070145;
         public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f070027;
         public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f070028;
         public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f070029;
@@ -2757,7 +2997,7 @@ containing a value of this type.
         public static final int Theme_AppCompat_NoActionBar=0x7f0700ed;
         public static final int Theme_MediaRouter=0x7f070000;
         public static final int Theme_MediaRouter_Light=0x7f070001;
-        public static final int Theme_Splash=0x7f070144;
+        public static final int Theme_Splash=0x7f070148;
         public static final int ThemeOverlay_AppCompat=0x7f0700ee;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0700ef;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0700f0;
@@ -4653,6 +4893,166 @@ containing a value of this type.
           @attr name Poker2.Poker2:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 4;
+        /** Attributes that can be used with a HoloCircularProgressBar.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_gravity Poker2.Poker2:circular_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_indeterminate Poker2.Poker2:circular_indeterminate}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_indeterminate_interval Poker2.Poker2:circular_indeterminate_interval}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_marker_progress Poker2.Poker2:circular_marker_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_progress Poker2.Poker2:circular_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_progress_background_color Poker2.Poker2:circular_progress_background_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_progress_color Poker2.Poker2:circular_progress_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #HoloCircularProgressBar_circular_stroke_width Poker2.Poker2:circular_stroke_width}</code></td><td></td></tr>
+           </table>
+           @see #HoloCircularProgressBar_circular_gravity
+           @see #HoloCircularProgressBar_circular_indeterminate
+           @see #HoloCircularProgressBar_circular_indeterminate_interval
+           @see #HoloCircularProgressBar_circular_marker_progress
+           @see #HoloCircularProgressBar_circular_progress
+           @see #HoloCircularProgressBar_circular_progress_background_color
+           @see #HoloCircularProgressBar_circular_progress_color
+           @see #HoloCircularProgressBar_circular_stroke_width
+         */
+        public static final int[] HoloCircularProgressBar = {
+            0x7f010124, 0x7f010125, 0x7f010126, 0x7f010127,
+            0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b
+        };
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_gravity}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>clip</code></td><td>0x88</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+</table>
+          @attr name Poker2.Poker2:circular_gravity
+        */
+        public static final int HoloCircularProgressBar_circular_gravity = 0;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_indeterminate}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_indeterminate
+        */
+        public static final int HoloCircularProgressBar_circular_indeterminate = 6;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_indeterminate_interval}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_indeterminate_interval
+        */
+        public static final int HoloCircularProgressBar_circular_indeterminate_interval = 7;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_marker_progress}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_marker_progress
+        */
+        public static final int HoloCircularProgressBar_circular_marker_progress = 3;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_progress}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_progress
+        */
+        public static final int HoloCircularProgressBar_circular_progress = 2;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_progress_background_color}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_progress_background_color
+        */
+        public static final int HoloCircularProgressBar_circular_progress_background_color = 5;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_progress_color}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_progress_color
+        */
+        public static final int HoloCircularProgressBar_circular_progress_color = 4;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circular_stroke_width}
+          attribute's value can be found in the {@link #HoloCircularProgressBar} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circular_stroke_width
+        */
+        public static final int HoloCircularProgressBar_circular_stroke_width = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -5410,6 +5810,212 @@ containing a value of this type.
           @attr name Poker2.Poker2:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+        /** Attributes that can be used with a ProgressButton.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ProgressButton_android_clickable android:clickable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_android_focusable android:focusable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_android_selectableItemBackground android:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_circleColor Poker2.Poker2:circleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_indeterminate Poker2.Poker2:indeterminate}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_indeterminate_interval Poker2.Poker2:indeterminate_interval}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_innerSize Poker2.Poker2:innerSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_max Poker2.Poker2:max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_pinned Poker2.Poker2:pinned}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_pinnedDrawable Poker2.Poker2:pinnedDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_progress Poker2.Poker2:progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_progressColor Poker2.Poker2:progressColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_shadowDrawable Poker2.Poker2:shadowDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressButton_unpinnedDrawable Poker2.Poker2:unpinnedDrawable}</code></td><td></td></tr>
+           </table>
+           @see #ProgressButton_android_clickable
+           @see #ProgressButton_android_focusable
+           @see #ProgressButton_android_selectableItemBackground
+           @see #ProgressButton_circleColor
+           @see #ProgressButton_indeterminate
+           @see #ProgressButton_indeterminate_interval
+           @see #ProgressButton_innerSize
+           @see #ProgressButton_max
+           @see #ProgressButton_pinned
+           @see #ProgressButton_pinnedDrawable
+           @see #ProgressButton_progress
+           @see #ProgressButton_progressColor
+           @see #ProgressButton_shadowDrawable
+           @see #ProgressButton_unpinnedDrawable
+         */
+        public static final int[] ProgressButton = {
+            0x010100da, 0x010100e5, 0x0101030e, 0x7f010119,
+            0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d,
+            0x7f01011e, 0x7f01011f, 0x7f010120, 0x7f010121,
+            0x7f010122, 0x7f010123
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#clickable}
+          attribute's value can be found in the {@link #ProgressButton} array.
+          @attr name android:clickable
+        */
+        public static final int ProgressButton_android_clickable = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#focusable}
+          attribute's value can be found in the {@link #ProgressButton} array.
+          @attr name android:focusable
+        */
+        public static final int ProgressButton_android_focusable = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#selectableItemBackground}
+          attribute's value can be found in the {@link #ProgressButton} array.
+          @attr name android:selectableItemBackground
+        */
+        public static final int ProgressButton_android_selectableItemBackground = 2;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circleColor}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:circleColor
+        */
+        public static final int ProgressButton_circleColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#indeterminate}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:indeterminate
+        */
+        public static final int ProgressButton_indeterminate = 12;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#indeterminate_interval}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:indeterminate_interval
+        */
+        public static final int ProgressButton_indeterminate_interval = 13;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#innerSize}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:innerSize
+        */
+        public static final int ProgressButton_innerSize = 10;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#max}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:max
+        */
+        public static final int ProgressButton_max = 4;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#pinned}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:pinned
+        */
+        public static final int ProgressButton_pinned = 11;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#pinnedDrawable}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name Poker2.Poker2:pinnedDrawable
+        */
+        public static final int ProgressButton_pinnedDrawable = 7;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#progress}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:progress
+        */
+        public static final int ProgressButton_progress = 3;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#progressColor}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name Poker2.Poker2:progressColor
+        */
+        public static final int ProgressButton_progressColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#shadowDrawable}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name Poker2.Poker2:shadowDrawable
+        */
+        public static final int ProgressButton_shadowDrawable = 9;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#unpinnedDrawable}
+          attribute's value can be found in the {@link #ProgressButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name Poker2.Poker2:unpinnedDrawable
+        */
+        public static final int ProgressButton_unpinnedDrawable = 8;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
            <p>Includes the following attributes:</p>
            <table>
@@ -6412,6 +7018,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_buttonStyleSmall Poker2.Poker2:buttonStyleSmall}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_checkboxStyle Poker2.Poker2:checkboxStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_checkedTextViewStyle Poker2.Poker2:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_circularProgressBarStyle Poker2.Poker2:circularProgressBarStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorAccent Poker2.Poker2:colorAccent}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorButtonNormal Poker2.Poker2:colorButtonNormal}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorControlActivated Poker2.Poker2:colorControlActivated}</code></td><td></td></tr>
@@ -6521,6 +7128,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_buttonStyleSmall
            @see #Theme_checkboxStyle
            @see #Theme_checkedTextViewStyle
+           @see #Theme_circularProgressBarStyle
            @see #Theme_colorAccent
            @see #Theme_colorButtonNormal
            @see #Theme_colorControlActivated
@@ -6609,7 +7217,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100bb, 0x7f0100bc, 0x7f0100bd, 0x7f0100be,
             0x7f0100bf, 0x7f0100c0, 0x7f0100c1, 0x7f0100c2,
             0x7f0100c3, 0x7f0100c4, 0x7f0100c5, 0x7f0100c6,
-            0x7f0100c7, 0x7f0100c8, 0x7f0100c9, 0x7f0100ca
+            0x7f0100c7, 0x7f0100c8, 0x7f0100c9, 0x7f0100ca,
+            0x7f01012c
         };
         /**
           <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#actionBarDivider}
@@ -7103,6 +7712,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name Poker2.Poker2:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 102;
+        /**
+          <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#circularProgressBarStyle}
+          attribute's value can be found in the {@link #Theme} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name Poker2.Poker2:circularProgressBarStyle
+        */
+        public static final int Theme_circularProgressBarStyle = 108;
         /**
           <p>This symbol is the offset where the {@link Poker2.Poker2.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.

@@ -26,6 +26,111 @@ namespace Poker2
 		
 		public static void UpdateIdValues()
 		{
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circleColor = global::Poker2.Resource.Attribute.circleColor;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circularProgressBarStyle = global::Poker2.Resource.Attribute.circularProgressBarStyle;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_gravity = global::Poker2.Resource.Attribute.circular_gravity;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_indeterminate = global::Poker2.Resource.Attribute.circular_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_indeterminate_interval = global::Poker2.Resource.Attribute.circular_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_marker_progress = global::Poker2.Resource.Attribute.circular_marker_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress = global::Poker2.Resource.Attribute.circular_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress_background_color = global::Poker2.Resource.Attribute.circular_progress_background_color;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_progress_color = global::Poker2.Resource.Attribute.circular_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.circular_stroke_width = global::Poker2.Resource.Attribute.circular_stroke_width;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.indeterminate = global::Poker2.Resource.Attribute.indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.indeterminate_interval = global::Poker2.Resource.Attribute.indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.innerSize = global::Poker2.Resource.Attribute.innerSize;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.max = global::Poker2.Resource.Attribute.max;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.pinned = global::Poker2.Resource.Attribute.pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.pinnedDrawable = global::Poker2.Resource.Attribute.pinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progress = global::Poker2.Resource.Attribute.progress;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progressButtonStyle = global::Poker2.Resource.Attribute.progressButtonStyle;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.progressColor = global::Poker2.Resource.Attribute.progressColor;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.shadowDrawable = global::Poker2.Resource.Attribute.shadowDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Attribute.unpinnedDrawable = global::Poker2.Resource.Attribute.unpinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Color.progress_default_circle_color = global::Poker2.Resource.Color.progress_default_circle_color;
+			global::com.refractored.monodroidtoolkit.Resource.Color.progress_default_progress_color = global::Poker2.Resource.Color.progress_default_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_dark = global::Poker2.Resource.Color.refractored_background_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_holo_dark = global::Poker2.Resource.Color.refractored_background_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_holo_light = global::Poker2.Resource.Color.refractored_background_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_background_light = global::Poker2.Resource.Color.refractored_background_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_dark = global::Poker2.Resource.Color.refractored_bright_foreground_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_dark_disabled = global::Poker2.Resource.Color.refractored_bright_foreground_dark_disabled;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_disabled_holo_dark = global::Poker2.Resource.Color.refractored_bright_foreground_disabled_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_disabled_holo_light = global::Poker2.Resource.Color.refractored_bright_foreground_disabled_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_holo_dark = global::Poker2.Resource.Color.refractored_bright_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_holo_light = global::Poker2.Resource.Color.refractored_bright_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_bright_foreground_light = global::Poker2.Resource.Color.refractored_bright_foreground_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_disabled_holo_dark = global::Poker2.Resource.Color.refractored_dim_foreground_disabled_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_disabled_holo_light = global::Poker2.Resource.Color.refractored_dim_foreground_disabled_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_holo_dark = global::Poker2.Resource.Color.refractored_dim_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_dim_foreground_holo_light = global::Poker2.Resource.Color.refractored_dim_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_highlighted_text_holo_dark = global::Poker2.Resource.Color.refractored_highlighted_text_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_highlighted_text_holo_light = global::Poker2.Resource.Color.refractored_highlighted_text_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_hint_foreground_holo_dark = global::Poker2.Resource.Color.refractored_hint_foreground_holo_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_hint_foreground_holo_light = global::Poker2.Resource.Color.refractored_hint_foreground_holo_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_bright = global::Poker2.Resource.Color.refractored_holo_blue_bright;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_dark = global::Poker2.Resource.Color.refractored_holo_blue_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_blue_light = global::Poker2.Resource.Color.refractored_holo_blue_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_green_dark = global::Poker2.Resource.Color.refractored_holo_green_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_green_light = global::Poker2.Resource.Color.refractored_holo_green_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_orange_dark = global::Poker2.Resource.Color.refractored_holo_orange_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_orange_light = global::Poker2.Resource.Color.refractored_holo_orange_light;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_purple = global::Poker2.Resource.Color.refractored_holo_purple;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_red_dark = global::Poker2.Resource.Color.refractored_holo_red_dark;
+			global::com.refractored.monodroidtoolkit.Resource.Color.refractored_holo_red_light = global::Poker2.Resource.Color.refractored_holo_red_light;
+			global::com.refractored.monodroidtoolkit.Resource.Dimension.progress_inner_size = global::Poker2.Resource.Dimension.progress_inner_size;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_pinned = global::Poker2.Resource.Drawable.pin_progress_pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_shadow = global::Poker2.Resource.Drawable.pin_progress_shadow;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.pin_progress_unpinned = global::Poker2.Resource.Drawable.pin_progress_unpinned;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.scrubber_control_normal_holo = global::Poker2.Resource.Drawable.scrubber_control_normal_holo;
+			global::com.refractored.monodroidtoolkit.Resource.Drawable.scrubber_control_pressed_holo = global::Poker2.Resource.Drawable.scrubber_control_pressed_holo;
+			global::com.refractored.monodroidtoolkit.Resource.Id.bottom = global::Poker2.Resource.Id.bottom;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center = global::Poker2.Resource.Id.center;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center_horizontal = global::Poker2.Resource.Id.center_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.center_vertical = global::Poker2.Resource.Id.center_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip = global::Poker2.Resource.Id.clip;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip_horizontal = global::Poker2.Resource.Id.clip_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.clip_vertical = global::Poker2.Resource.Id.clip_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.end = global::Poker2.Resource.Id.end;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill = global::Poker2.Resource.Id.fill;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill_horizontal = global::Poker2.Resource.Id.fill_horizontal;
+			global::com.refractored.monodroidtoolkit.Resource.Id.fill_vertical = global::Poker2.Resource.Id.fill_vertical;
+			global::com.refractored.monodroidtoolkit.Resource.Id.left = global::Poker2.Resource.Id.left;
+			global::com.refractored.monodroidtoolkit.Resource.Id.right = global::Poker2.Resource.Id.right;
+			global::com.refractored.monodroidtoolkit.Resource.Id.start = global::Poker2.Resource.Id.start;
+			global::com.refractored.monodroidtoolkit.Resource.Id.top = global::Poker2.Resource.Id.top;
+			global::com.refractored.monodroidtoolkit.Resource.Integer.circular_indeterminent_interval = global::Poker2.Resource.Integer.circular_indeterminent_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Integer.progressbutton_indeterminent_interval = global::Poker2.Resource.Integer.progressbutton_indeterminent_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Style.CircularProgressBar = global::Poker2.Resource.Style.CircularProgressBar;
+			global::com.refractored.monodroidtoolkit.Resource.Style.CircularProgressBarLight = global::Poker2.Resource.Style.CircularProgressBarLight;
+			global::com.refractored.monodroidtoolkit.Resource.Style.ProgressButton = global::Poker2.Resource.Style.ProgressButton;
+			global::com.refractored.monodroidtoolkit.Resource.Style.ProgressButton_Pin = global::Poker2.Resource.Style.ProgressButton_Pin;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar = global::Poker2.Resource.Styleable.HoloCircularProgressBar;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_gravity = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_gravity;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate_interval = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_marker_progress = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_marker_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress_background_color = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_progress_background_color;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_progress_color = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_progress_color;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.HoloCircularProgressBar_circular_stroke_width = global::Poker2.Resource.Styleable.HoloCircularProgressBar_circular_stroke_width;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton = global::Poker2.Resource.Styleable.ProgressButton;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_clickable = global::Poker2.Resource.Styleable.ProgressButton_android_clickable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_focusable = global::Poker2.Resource.Styleable.ProgressButton_android_focusable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_android_selectableItemBackground = global::Poker2.Resource.Styleable.ProgressButton_android_selectableItemBackground;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_circleColor = global::Poker2.Resource.Styleable.ProgressButton_circleColor;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_indeterminate = global::Poker2.Resource.Styleable.ProgressButton_indeterminate;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_indeterminate_interval = global::Poker2.Resource.Styleable.ProgressButton_indeterminate_interval;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_innerSize = global::Poker2.Resource.Styleable.ProgressButton_innerSize;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_max = global::Poker2.Resource.Styleable.ProgressButton_max;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_pinned = global::Poker2.Resource.Styleable.ProgressButton_pinned;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_pinnedDrawable = global::Poker2.Resource.Styleable.ProgressButton_pinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_progress = global::Poker2.Resource.Styleable.ProgressButton_progress;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_progressColor = global::Poker2.Resource.Styleable.ProgressButton_progressColor;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_shadowDrawable = global::Poker2.Resource.Styleable.ProgressButton_shadowDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.ProgressButton_unpinnedDrawable = global::Poker2.Resource.Styleable.ProgressButton_unpinnedDrawable;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.Theme = global::Poker2.Resource.Styleable.Theme;
+			global::com.refractored.monodroidtoolkit.Resource.Styleable.Theme_circularProgressBarStyle = global::Poker2.Resource.Styleable.Theme_circularProgressBarStyle;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::Poker2.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_out = global::Poker2.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_grow_fade_in_from_bottom = global::Poker2.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -1748,6 +1853,36 @@ namespace Poker2
 			// aapt resource value: 0x7f0100c5
 			public const int checkedTextViewStyle = 2130772165;
 			
+			// aapt resource value: 0x7f01011b
+			public const int circleColor = 2130772251;
+			
+			// aapt resource value: 0x7f01012c
+			public const int circularProgressBarStyle = 2130772268;
+			
+			// aapt resource value: 0x7f010124
+			public const int circular_gravity = 2130772260;
+			
+			// aapt resource value: 0x7f01012a
+			public const int circular_indeterminate = 2130772266;
+			
+			// aapt resource value: 0x7f01012b
+			public const int circular_indeterminate_interval = 2130772267;
+			
+			// aapt resource value: 0x7f010127
+			public const int circular_marker_progress = 2130772263;
+			
+			// aapt resource value: 0x7f010126
+			public const int circular_progress = 2130772262;
+			
+			// aapt resource value: 0x7f010129
+			public const int circular_progress_background_color = 2130772265;
+			
+			// aapt resource value: 0x7f010128
+			public const int circular_progress_color = 2130772264;
+			
+			// aapt resource value: 0x7f010125
+			public const int circular_stroke_width = 2130772261;
+			
 			// aapt resource value: 0x7f010051
 			public const int closeIcon = 2130772049;
 			
@@ -1952,11 +2087,20 @@ namespace Poker2
 			// aapt resource value: 0x7f01004e
 			public const int iconifiedByDefault = 2130772046;
 			
+			// aapt resource value: 0x7f010122
+			public const int indeterminate = 2130772258;
+			
 			// aapt resource value: 0x7f010026
 			public const int indeterminateProgressStyle = 2130772006;
 			
+			// aapt resource value: 0x7f010123
+			public const int indeterminate_interval = 2130772259;
+			
 			// aapt resource value: 0x7f010031
 			public const int initialActivityCount = 2130772017;
+			
+			// aapt resource value: 0x7f010120
+			public const int innerSize = 2130772256;
 			
 			// aapt resource value: 0x7f010101
 			public const int insetForeground = 2130772225;
@@ -2045,6 +2189,9 @@ namespace Poker2
 			// aapt resource value: 0x7f0100d7
 			public const int logoDescription = 2130772183;
 			
+			// aapt resource value: 0x7f01011a
+			public const int max = 2130772250;
+			
 			// aapt resource value: 0x7f010103
 			public const int maxActionInlineWidth = 2130772227;
 			
@@ -2111,6 +2258,12 @@ namespace Poker2
 			// aapt resource value: 0x7f0100ad
 			public const int panelMenuListWidth = 2130772141;
 			
+			// aapt resource value: 0x7f010121
+			public const int pinned = 2130772257;
+			
+			// aapt resource value: 0x7f01011d
+			public const int pinnedDrawable = 2130772253;
+			
 			// aapt resource value: 0x7f01009b
 			public const int popupMenuStyle = 2130772123;
 			
@@ -2126,11 +2279,20 @@ namespace Poker2
 			// aapt resource value: 0x7f0100f9
 			public const int pressedTranslationZ = 2130772217;
 			
+			// aapt resource value: 0x7f010119
+			public const int progress = 2130772249;
+			
 			// aapt resource value: 0x7f010027
 			public const int progressBarPadding = 2130772007;
 			
 			// aapt resource value: 0x7f010025
 			public const int progressBarStyle = 2130772005;
+			
+			// aapt resource value: 0x7f010118
+			public const int progressButtonStyle = 2130772248;
+			
+			// aapt resource value: 0x7f01011c
+			public const int progressColor = 2130772252;
 			
 			// aapt resource value: 0x7f010058
 			public const int queryBackground = 2130772056;
@@ -2161,6 +2323,9 @@ namespace Poker2
 			
 			// aapt resource value: 0x7f010094
 			public const int selectableItemBackgroundBorderless = 2130772116;
+			
+			// aapt resource value: 0x7f01011f
+			public const int shadowDrawable = 2130772255;
 			
 			// aapt resource value: 0x7f010046
 			public const int showAsAction = 2130772038;
@@ -2351,6 +2516,9 @@ namespace Poker2
 			// aapt resource value: 0x7f01005a
 			public const int track = 2130772058;
 			
+			// aapt resource value: 0x7f01011e
+			public const int unpinnedDrawable = 2130772254;
+			
 			// aapt resource value: 0x7f010055
 			public const int voiceIcon = 2130772053;
 			
@@ -2431,32 +2599,32 @@ namespace Poker2
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f080047
-			public const int abc_background_cache_hint_selector_material_dark = 2131230791;
+			// aapt resource value: 0x7f080066
+			public const int abc_background_cache_hint_selector_material_dark = 2131230822;
 			
-			// aapt resource value: 0x7f080048
-			public const int abc_background_cache_hint_selector_material_light = 2131230792;
+			// aapt resource value: 0x7f080067
+			public const int abc_background_cache_hint_selector_material_light = 2131230823;
 			
-			// aapt resource value: 0x7f080049
-			public const int abc_color_highlight_material = 2131230793;
+			// aapt resource value: 0x7f080068
+			public const int abc_color_highlight_material = 2131230824;
 			
 			// aapt resource value: 0x7f080004
 			public const int abc_input_method_navigation_guard = 2131230724;
 			
-			// aapt resource value: 0x7f08004a
-			public const int abc_primary_text_disable_only_material_dark = 2131230794;
+			// aapt resource value: 0x7f080069
+			public const int abc_primary_text_disable_only_material_dark = 2131230825;
 			
-			// aapt resource value: 0x7f08004b
-			public const int abc_primary_text_disable_only_material_light = 2131230795;
+			// aapt resource value: 0x7f08006a
+			public const int abc_primary_text_disable_only_material_light = 2131230826;
 			
-			// aapt resource value: 0x7f08004c
-			public const int abc_primary_text_material_dark = 2131230796;
+			// aapt resource value: 0x7f08006b
+			public const int abc_primary_text_material_dark = 2131230827;
 			
-			// aapt resource value: 0x7f08004d
-			public const int abc_primary_text_material_light = 2131230797;
+			// aapt resource value: 0x7f08006c
+			public const int abc_primary_text_material_light = 2131230828;
 			
-			// aapt resource value: 0x7f08004e
-			public const int abc_search_url_text = 2131230798;
+			// aapt resource value: 0x7f08006d
+			public const int abc_search_url_text = 2131230829;
 			
 			// aapt resource value: 0x7f080005
 			public const int abc_search_url_text_normal = 2131230725;
@@ -2467,11 +2635,11 @@ namespace Poker2
 			// aapt resource value: 0x7f080007
 			public const int abc_search_url_text_selected = 2131230727;
 			
-			// aapt resource value: 0x7f08004f
-			public const int abc_secondary_text_material_dark = 2131230799;
+			// aapt resource value: 0x7f08006e
+			public const int abc_secondary_text_material_dark = 2131230830;
 			
-			// aapt resource value: 0x7f080050
-			public const int abc_secondary_text_material_light = 2131230800;
+			// aapt resource value: 0x7f08006f
+			public const int abc_secondary_text_material_light = 2131230831;
 			
 			// aapt resource value: 0x7f080008
 			public const int accent_material_dark = 2131230728;
@@ -2644,6 +2812,99 @@ namespace Poker2
 			// aapt resource value: 0x7f080033
 			public const int primary_text_disabled_material_light = 2131230771;
 			
+			// aapt resource value: 0x7f080047
+			public const int progress_default_circle_color = 2131230791;
+			
+			// aapt resource value: 0x7f080048
+			public const int progress_default_progress_color = 2131230792;
+			
+			// aapt resource value: 0x7f080049
+			public const int refractored_background_dark = 2131230793;
+			
+			// aapt resource value: 0x7f08004e
+			public const int refractored_background_holo_dark = 2131230798;
+			
+			// aapt resource value: 0x7f08004f
+			public const int refractored_background_holo_light = 2131230799;
+			
+			// aapt resource value: 0x7f08004a
+			public const int refractored_background_light = 2131230794;
+			
+			// aapt resource value: 0x7f08004b
+			public const int refractored_bright_foreground_dark = 2131230795;
+			
+			// aapt resource value: 0x7f08004d
+			public const int refractored_bright_foreground_dark_disabled = 2131230797;
+			
+			// aapt resource value: 0x7f080052
+			public const int refractored_bright_foreground_disabled_holo_dark = 2131230802;
+			
+			// aapt resource value: 0x7f080053
+			public const int refractored_bright_foreground_disabled_holo_light = 2131230803;
+			
+			// aapt resource value: 0x7f080050
+			public const int refractored_bright_foreground_holo_dark = 2131230800;
+			
+			// aapt resource value: 0x7f080051
+			public const int refractored_bright_foreground_holo_light = 2131230801;
+			
+			// aapt resource value: 0x7f08004c
+			public const int refractored_bright_foreground_light = 2131230796;
+			
+			// aapt resource value: 0x7f080055
+			public const int refractored_dim_foreground_disabled_holo_dark = 2131230805;
+			
+			// aapt resource value: 0x7f080058
+			public const int refractored_dim_foreground_disabled_holo_light = 2131230808;
+			
+			// aapt resource value: 0x7f080054
+			public const int refractored_dim_foreground_holo_dark = 2131230804;
+			
+			// aapt resource value: 0x7f080057
+			public const int refractored_dim_foreground_holo_light = 2131230807;
+			
+			// aapt resource value: 0x7f08005a
+			public const int refractored_highlighted_text_holo_dark = 2131230810;
+			
+			// aapt resource value: 0x7f08005b
+			public const int refractored_highlighted_text_holo_light = 2131230811;
+			
+			// aapt resource value: 0x7f080056
+			public const int refractored_hint_foreground_holo_dark = 2131230806;
+			
+			// aapt resource value: 0x7f080059
+			public const int refractored_hint_foreground_holo_light = 2131230809;
+			
+			// aapt resource value: 0x7f080065
+			public const int refractored_holo_blue_bright = 2131230821;
+			
+			// aapt resource value: 0x7f08005f
+			public const int refractored_holo_blue_dark = 2131230815;
+			
+			// aapt resource value: 0x7f08005c
+			public const int refractored_holo_blue_light = 2131230812;
+			
+			// aapt resource value: 0x7f080060
+			public const int refractored_holo_green_dark = 2131230816;
+			
+			// aapt resource value: 0x7f08005d
+			public const int refractored_holo_green_light = 2131230813;
+			
+			// aapt resource value: 0x7f080064
+			public const int refractored_holo_orange_dark = 2131230820;
+			
+			// aapt resource value: 0x7f080063
+			public const int refractored_holo_orange_light = 2131230819;
+			
+			// aapt resource value: 0x7f080062
+			public const int refractored_holo_purple = 2131230818;
+			
+			// aapt resource value: 0x7f080061
+			public const int refractored_holo_red_dark = 2131230817;
+			
+			// aapt resource value: 0x7f08005e
+			public const int refractored_holo_red_light = 2131230814;
+			
 			// aapt resource value: 0x7f080034
 			public const int ripple_material_dark = 2131230772;
 			
@@ -2668,11 +2929,11 @@ namespace Poker2
 			// aapt resource value: 0x7f08003b
 			public const int switch_thumb_disabled_material_light = 2131230779;
 			
-			// aapt resource value: 0x7f080051
-			public const int switch_thumb_material_dark = 2131230801;
+			// aapt resource value: 0x7f080070
+			public const int switch_thumb_material_dark = 2131230832;
 			
-			// aapt resource value: 0x7f080052
-			public const int switch_thumb_material_light = 2131230802;
+			// aapt resource value: 0x7f080071
+			public const int switch_thumb_material_light = 2131230833;
 			
 			// aapt resource value: 0x7f08003c
 			public const int switch_thumb_normal_material_dark = 2131230780;
@@ -2999,6 +3260,9 @@ namespace Poker2
 			// aapt resource value: 0x7f06004b
 			public const int notification_subtext_size = 2131099723;
 			
+			// aapt resource value: 0x7f060066
+			public const int progress_inner_size = 2131099750;
+			
 			static Dimension()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -3315,14 +3579,29 @@ namespace Poker2
 			// aapt resource value: 0x7f020064
 			public const int mr_ic_settings_light = 2130837604;
 			
-			// aapt resource value: 0x7f020067
-			public const int notification_template_icon_bg = 2130837607;
+			// aapt resource value: 0x7f02006c
+			public const int notification_template_icon_bg = 2130837612;
 			
 			// aapt resource value: 0x7f020065
-			public const int playButton = 2130837605;
+			public const int pin_progress_pinned = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int splash = 2130837606;
+			public const int pin_progress_shadow = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int pin_progress_unpinned = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int playButton = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int scrubber_control_normal_holo = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int scrubber_control_pressed_holo = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int splash = 2130837611;
 			
 			static Drawable()
 			{
@@ -3337,35 +3616,35 @@ namespace Poker2
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0b0076
-			public const int action0 = 2131427446;
+			// aapt resource value: 0x7f0b0078
+			public const int action0 = 2131427448;
 			
-			// aapt resource value: 0x7f0b0055
-			public const int action_bar = 2131427413;
+			// aapt resource value: 0x7f0b0056
+			public const int action_bar = 2131427414;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int action_bar_activity_content = 2131427328;
 			
-			// aapt resource value: 0x7f0b0054
-			public const int action_bar_container = 2131427412;
+			// aapt resource value: 0x7f0b0055
+			public const int action_bar_container = 2131427413;
 			
-			// aapt resource value: 0x7f0b0050
-			public const int action_bar_root = 2131427408;
+			// aapt resource value: 0x7f0b0051
+			public const int action_bar_root = 2131427409;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int action_bar_spinner = 2131427329;
 			
+			// aapt resource value: 0x7f0b003a
+			public const int action_bar_subtitle = 2131427386;
+			
 			// aapt resource value: 0x7f0b0039
-			public const int action_bar_subtitle = 2131427385;
+			public const int action_bar_title = 2131427385;
 			
-			// aapt resource value: 0x7f0b0038
-			public const int action_bar_title = 2131427384;
+			// aapt resource value: 0x7f0b0057
+			public const int action_context_bar = 2131427415;
 			
-			// aapt resource value: 0x7f0b0056
-			public const int action_context_bar = 2131427414;
-			
-			// aapt resource value: 0x7f0b007a
-			public const int action_divider = 2131427450;
+			// aapt resource value: 0x7f0b007c
+			public const int action_divider = 2131427452;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int action_menu_divider = 2131427330;
@@ -3373,26 +3652,26 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0003
 			public const int action_menu_presenter = 2131427331;
 			
+			// aapt resource value: 0x7f0b0053
+			public const int action_mode_bar = 2131427411;
+			
 			// aapt resource value: 0x7f0b0052
-			public const int action_mode_bar = 2131427410;
-			
-			// aapt resource value: 0x7f0b0051
-			public const int action_mode_bar_stub = 2131427409;
-			
-			// aapt resource value: 0x7f0b003a
-			public const int action_mode_close_button = 2131427386;
+			public const int action_mode_bar_stub = 2131427410;
 			
 			// aapt resource value: 0x7f0b003b
-			public const int activity_chooser_view_content = 2131427387;
+			public const int action_mode_close_button = 2131427387;
 			
-			// aapt resource value: 0x7f0b0045
-			public const int alertTitle = 2131427397;
+			// aapt resource value: 0x7f0b003c
+			public const int activity_chooser_view_content = 2131427388;
+			
+			// aapt resource value: 0x7f0b0046
+			public const int alertTitle = 2131427398;
 			
 			// aapt resource value: 0x7f0b001c
 			public const int always = 2131427356;
 			
-			// aapt resource value: 0x7f0b006e
-			public const int art = 2131427438;
+			// aapt resource value: 0x7f0b0070
+			public const int art = 2131427440;
 			
 			// aapt resource value: 0x7f0b0019
 			public const int beginning = 2131427353;
@@ -3400,14 +3679,14 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0028
 			public const int bottom = 2131427368;
 			
-			// aapt resource value: 0x7f0b004b
-			public const int buttonPanel = 2131427403;
+			// aapt resource value: 0x7f0b004c
+			public const int buttonPanel = 2131427404;
 			
-			// aapt resource value: 0x7f0b0073
-			public const int buttons = 2131427443;
+			// aapt resource value: 0x7f0b0075
+			public const int buttons = 2131427445;
 			
-			// aapt resource value: 0x7f0b0077
-			public const int cancel_action = 2131427447;
+			// aapt resource value: 0x7f0b0079
+			public const int cancel_action = 2131427449;
 			
 			// aapt resource value: 0x7f0b0029
 			public const int center = 2131427369;
@@ -3418,11 +3697,14 @@ namespace Poker2
 			// aapt resource value: 0x7f0b002b
 			public const int center_vertical = 2131427371;
 			
-			// aapt resource value: 0x7f0b004d
-			public const int checkbox = 2131427405;
+			// aapt resource value: 0x7f0b004e
+			public const int checkbox = 2131427406;
 			
-			// aapt resource value: 0x7f0b007d
-			public const int chronometer = 2131427453;
+			// aapt resource value: 0x7f0b007f
+			public const int chronometer = 2131427455;
+			
+			// aapt resource value: 0x7f0b0038
+			public const int clip = 2131427384;
 			
 			// aapt resource value: 0x7f0b0031
 			public const int clip_horizontal = 2131427377;
@@ -3433,38 +3715,38 @@ namespace Poker2
 			// aapt resource value: 0x7f0b001d
 			public const int collapseActionView = 2131427357;
 			
-			// aapt resource value: 0x7f0b0046
-			public const int contentPanel = 2131427398;
+			// aapt resource value: 0x7f0b0047
+			public const int contentPanel = 2131427399;
+			
+			// aapt resource value: 0x7f0b004b
+			public const int custom = 2131427403;
 			
 			// aapt resource value: 0x7f0b004a
-			public const int custom = 2131427402;
+			public const int customPanel = 2131427402;
 			
-			// aapt resource value: 0x7f0b0049
-			public const int customPanel = 2131427401;
+			// aapt resource value: 0x7f0b0054
+			public const int decor_content_parent = 2131427412;
 			
-			// aapt resource value: 0x7f0b0053
-			public const int decor_content_parent = 2131427411;
+			// aapt resource value: 0x7f0b003f
+			public const int default_activity_button = 2131427391;
 			
-			// aapt resource value: 0x7f0b003e
-			public const int default_activity_button = 2131427390;
-			
-			// aapt resource value: 0x7f0b006d
-			public const int default_control_frame = 2131427437;
+			// aapt resource value: 0x7f0b006f
+			public const int default_control_frame = 2131427439;
 			
 			// aapt resource value: 0x7f0b000d
 			public const int disableHome = 2131427341;
 			
-			// aapt resource value: 0x7f0b0074
-			public const int disconnect = 2131427444;
+			// aapt resource value: 0x7f0b0076
+			public const int disconnect = 2131427446;
 			
-			// aapt resource value: 0x7f0b0057
-			public const int edit_query = 2131427415;
+			// aapt resource value: 0x7f0b0058
+			public const int edit_query = 2131427416;
 			
 			// aapt resource value: 0x7f0b001a
 			public const int end = 2131427354;
 			
-			// aapt resource value: 0x7f0b0082
-			public const int end_padder = 2131427458;
+			// aapt resource value: 0x7f0b0084
+			public const int end_padder = 2131427460;
 			
 			// aapt resource value: 0x7f0b0022
 			public const int enterAlways = 2131427362;
@@ -3475,11 +3757,11 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0024
 			public const int exitUntilCollapsed = 2131427364;
 			
-			// aapt resource value: 0x7f0b003c
-			public const int expand_activities_button = 2131427388;
+			// aapt resource value: 0x7f0b003d
+			public const int expand_activities_button = 2131427389;
 			
-			// aapt resource value: 0x7f0b004c
-			public const int expanded_menu = 2131427404;
+			// aapt resource value: 0x7f0b004d
+			public const int expanded_menu = 2131427405;
 			
 			// aapt resource value: 0x7f0b0033
 			public const int fill = 2131427379;
@@ -3493,53 +3775,56 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0036
 			public const int @fixed = 2131427382;
 			
+			// aapt resource value: 0x7f0b0069
+			public const int holoCircularProgressBar1 = 2131427433;
+			
 			// aapt resource value: 0x7f0b0004
 			public const int home = 2131427332;
 			
 			// aapt resource value: 0x7f0b000e
 			public const int homeAsUp = 2131427342;
 			
-			// aapt resource value: 0x7f0b0040
-			public const int icon = 2131427392;
+			// aapt resource value: 0x7f0b0041
+			public const int icon = 2131427393;
 			
 			// aapt resource value: 0x7f0b001e
 			public const int ifRoom = 2131427358;
 			
-			// aapt resource value: 0x7f0b003d
-			public const int image = 2131427389;
+			// aapt resource value: 0x7f0b003e
+			public const int image = 2131427390;
 			
-			// aapt resource value: 0x7f0b0081
-			public const int info = 2131427457;
+			// aapt resource value: 0x7f0b0083
+			public const int info = 2131427459;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int left = 2131427373;
 			
-			// aapt resource value: 0x7f0b007b
-			public const int line1 = 2131427451;
+			// aapt resource value: 0x7f0b007d
+			public const int line1 = 2131427453;
 			
-			// aapt resource value: 0x7f0b007f
-			public const int line3 = 2131427455;
+			// aapt resource value: 0x7f0b0081
+			public const int line3 = 2131427457;
 			
 			// aapt resource value: 0x7f0b000a
 			public const int listMode = 2131427338;
 			
-			// aapt resource value: 0x7f0b003f
-			public const int list_item = 2131427391;
+			// aapt resource value: 0x7f0b0040
+			public const int list_item = 2131427392;
 			
-			// aapt resource value: 0x7f0b0079
-			public const int media_actions = 2131427449;
+			// aapt resource value: 0x7f0b007b
+			public const int media_actions = 2131427451;
 			
-			// aapt resource value: 0x7f0b006c
-			public const int media_route_control_frame = 2131427436;
+			// aapt resource value: 0x7f0b006e
+			public const int media_route_control_frame = 2131427438;
 			
-			// aapt resource value: 0x7f0b0068
-			public const int media_route_list = 2131427432;
+			// aapt resource value: 0x7f0b006a
+			public const int media_route_list = 2131427434;
 			
-			// aapt resource value: 0x7f0b0071
-			public const int media_route_volume_layout = 2131427441;
+			// aapt resource value: 0x7f0b0073
+			public const int media_route_volume_layout = 2131427443;
 			
-			// aapt resource value: 0x7f0b0072
-			public const int media_route_volume_slider = 2131427442;
+			// aapt resource value: 0x7f0b0074
+			public const int media_route_volume_slider = 2131427444;
 			
 			// aapt resource value: 0x7f0b001b
 			public const int middle = 2131427355;
@@ -3550,8 +3835,8 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0014
 			public const int multiply = 2131427348;
 			
-			// aapt resource value: 0x7f0b0067
-			public const int myButton = 2131427431;
+			// aapt resource value: 0x7f0b0068
+			public const int myButton = 2131427432;
 			
 			// aapt resource value: 0x7f0b001f
 			public const int never = 2131427359;
@@ -3565,14 +3850,14 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0026
 			public const int parallax = 2131427366;
 			
-			// aapt resource value: 0x7f0b0042
-			public const int parentPanel = 2131427394;
+			// aapt resource value: 0x7f0b0043
+			public const int parentPanel = 2131427395;
 			
 			// aapt resource value: 0x7f0b0027
 			public const int pin = 2131427367;
 			
-			// aapt resource value: 0x7f0b006f
-			public const int play_pause = 2131427439;
+			// aapt resource value: 0x7f0b0071
+			public const int play_pause = 2131427441;
 			
 			// aapt resource value: 0x7f0b0005
 			public const int progress_circular = 2131427333;
@@ -3580,14 +3865,14 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0006
 			public const int progress_horizontal = 2131427334;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int radio = 2131427407;
+			// aapt resource value: 0x7f0b0050
+			public const int radio = 2131427408;
 			
 			// aapt resource value: 0x7f0b002e
 			public const int right = 2131427374;
 			
-			// aapt resource value: 0x7f0b006a
-			public const int route_name = 2131427434;
+			// aapt resource value: 0x7f0b006c
+			public const int route_name = 2131427436;
 			
 			// aapt resource value: 0x7f0b0015
 			public const int screen = 2131427349;
@@ -3595,50 +3880,50 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0025
 			public const int scroll = 2131427365;
 			
-			// aapt resource value: 0x7f0b0047
-			public const int scrollView = 2131427399;
+			// aapt resource value: 0x7f0b0048
+			public const int scrollView = 2131427400;
 			
 			// aapt resource value: 0x7f0b0037
 			public const int scrollable = 2131427383;
 			
-			// aapt resource value: 0x7f0b0059
-			public const int search_badge = 2131427417;
-			
-			// aapt resource value: 0x7f0b0058
-			public const int search_bar = 2131427416;
-			
 			// aapt resource value: 0x7f0b005a
-			public const int search_button = 2131427418;
+			public const int search_badge = 2131427418;
 			
-			// aapt resource value: 0x7f0b005f
-			public const int search_close_btn = 2131427423;
+			// aapt resource value: 0x7f0b0059
+			public const int search_bar = 2131427417;
 			
 			// aapt resource value: 0x7f0b005b
-			public const int search_edit_frame = 2131427419;
+			public const int search_button = 2131427419;
 			
-			// aapt resource value: 0x7f0b0061
-			public const int search_go_btn = 2131427425;
+			// aapt resource value: 0x7f0b0060
+			public const int search_close_btn = 2131427424;
 			
 			// aapt resource value: 0x7f0b005c
-			public const int search_mag_icon = 2131427420;
-			
-			// aapt resource value: 0x7f0b005d
-			public const int search_plate = 2131427421;
-			
-			// aapt resource value: 0x7f0b005e
-			public const int search_src_text = 2131427422;
+			public const int search_edit_frame = 2131427420;
 			
 			// aapt resource value: 0x7f0b0062
-			public const int search_voice_btn = 2131427426;
+			public const int search_go_btn = 2131427426;
+			
+			// aapt resource value: 0x7f0b005d
+			public const int search_mag_icon = 2131427421;
+			
+			// aapt resource value: 0x7f0b005e
+			public const int search_plate = 2131427422;
+			
+			// aapt resource value: 0x7f0b005f
+			public const int search_src_text = 2131427423;
 			
 			// aapt resource value: 0x7f0b0063
-			public const int select_dialog_listview = 2131427427;
+			public const int search_voice_btn = 2131427427;
 			
-			// aapt resource value: 0x7f0b006b
-			public const int settings = 2131427435;
+			// aapt resource value: 0x7f0b0064
+			public const int select_dialog_listview = 2131427428;
 			
-			// aapt resource value: 0x7f0b004e
-			public const int shortcut = 2131427406;
+			// aapt resource value: 0x7f0b006d
+			public const int settings = 2131427437;
+			
+			// aapt resource value: 0x7f0b004f
+			public const int shortcut = 2131427407;
 			
 			// aapt resource value: 0x7f0b0010
 			public const int showCustom = 2131427344;
@@ -3649,11 +3934,11 @@ namespace Poker2
 			// aapt resource value: 0x7f0b0012
 			public const int showTitle = 2131427346;
 			
-			// aapt resource value: 0x7f0b0066
-			public const int snackbar_action = 2131427430;
+			// aapt resource value: 0x7f0b0067
+			public const int snackbar_action = 2131427431;
 			
-			// aapt resource value: 0x7f0b0065
-			public const int snackbar_text = 2131427429;
+			// aapt resource value: 0x7f0b0066
+			public const int snackbar_text = 2131427430;
 			
 			// aapt resource value: 0x7f0b0007
 			public const int split_action_bar = 2131427335;
@@ -3670,50 +3955,50 @@ namespace Poker2
 			// aapt resource value: 0x7f0b002f
 			public const int start = 2131427375;
 			
-			// aapt resource value: 0x7f0b0078
-			public const int status_bar_latest_event_content = 2131427448;
+			// aapt resource value: 0x7f0b007a
+			public const int status_bar_latest_event_content = 2131427450;
 			
-			// aapt resource value: 0x7f0b0075
-			public const int stop = 2131427445;
+			// aapt resource value: 0x7f0b0077
+			public const int stop = 2131427447;
 			
-			// aapt resource value: 0x7f0b0060
-			public const int submit_area = 2131427424;
+			// aapt resource value: 0x7f0b0061
+			public const int submit_area = 2131427425;
 			
-			// aapt resource value: 0x7f0b0070
-			public const int subtitle = 2131427440;
+			// aapt resource value: 0x7f0b0072
+			public const int subtitle = 2131427442;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int tabMode = 2131427340;
 			
+			// aapt resource value: 0x7f0b0082
+			public const int text = 2131427458;
+			
 			// aapt resource value: 0x7f0b0080
-			public const int text = 2131427456;
+			public const int text2 = 2131427456;
+			
+			// aapt resource value: 0x7f0b0049
+			public const int textSpacerNoButtons = 2131427401;
+			
+			// aapt resource value: 0x7f0b0065
+			public const int textView1 = 2131427429;
 			
 			// aapt resource value: 0x7f0b007e
-			public const int text2 = 2131427454;
+			public const int time = 2131427454;
 			
-			// aapt resource value: 0x7f0b0048
-			public const int textSpacerNoButtons = 2131427400;
+			// aapt resource value: 0x7f0b0042
+			public const int title = 2131427394;
 			
-			// aapt resource value: 0x7f0b0064
-			public const int textView1 = 2131427428;
+			// aapt resource value: 0x7f0b006b
+			public const int title_bar = 2131427435;
 			
-			// aapt resource value: 0x7f0b007c
-			public const int time = 2131427452;
-			
-			// aapt resource value: 0x7f0b0041
-			public const int title = 2131427393;
-			
-			// aapt resource value: 0x7f0b0069
-			public const int title_bar = 2131427433;
-			
-			// aapt resource value: 0x7f0b0044
-			public const int title_template = 2131427396;
+			// aapt resource value: 0x7f0b0045
+			public const int title_template = 2131427397;
 			
 			// aapt resource value: 0x7f0b0030
 			public const int top = 2131427376;
 			
-			// aapt resource value: 0x7f0b0043
-			public const int topPanel = 2131427395;
+			// aapt resource value: 0x7f0b0044
+			public const int topPanel = 2131427396;
 			
 			// aapt resource value: 0x7f0b0008
 			public const int up = 2131427336;
@@ -3755,8 +4040,14 @@ namespace Poker2
 			// aapt resource value: 0x7f0a0003
 			public const int cancel_button_image_alpha = 2131361795;
 			
+			// aapt resource value: 0x7f0a0007
+			public const int circular_indeterminent_interval = 2131361799;
+			
 			// aapt resource value: 0x7f0a0005
 			public const int design_snackbar_text_max_lines = 2131361797;
+			
+			// aapt resource value: 0x7f0a0006
+			public const int progressbutton_indeterminent_interval = 2131361798;
 			
 			// aapt resource value: 0x7f0a0004
 			public const int status_bar_notification_info_maxnum = 2131361796;
@@ -4060,6 +4351,9 @@ namespace Poker2
 			
 			// aapt resource value: 0x7f070084
 			public const int Animation_AppCompat_DropDownUp = 2131165316;
+			
+			// aapt resource value: 0x7f070149
+			public const int AppTheme = 2131165513;
 			
 			// aapt resource value: 0x7f070085
 			public const int Base_AlertDialog_AppCompat = 2131165317;
@@ -4487,8 +4781,14 @@ namespace Poker2
 			// aapt resource value: 0x7f070006
 			public const int CardView_Light = 2131165190;
 			
-			// aapt resource value: 0x7f070145
-			public const int Mono_Android_Theme_Splash = 2131165509;
+			// aapt resource value: 0x7f070146
+			public const int CircularProgressBar = 2131165510;
+			
+			// aapt resource value: 0x7f070147
+			public const int CircularProgressBarLight = 2131165511;
+			
+			// aapt resource value: 0x7f07014a
+			public const int Mono_Android_Theme_Splash = 2131165514;
 			
 			// aapt resource value: 0x7f070016
 			public const int Platform_AppCompat = 2131165206;
@@ -4519,6 +4819,12 @@ namespace Poker2
 			
 			// aapt resource value: 0x7f07001a
 			public const int Platform_Widget_AppCompat_Spinner = 2131165210;
+			
+			// aapt resource value: 0x7f070144
+			public const int ProgressButton = 2131165508;
+			
+			// aapt resource value: 0x7f070145
+			public const int ProgressButton_Pin = 2131165509;
 			
 			// aapt resource value: 0x7f070027
 			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131165223;
@@ -4778,8 +5084,8 @@ namespace Poker2
 			// aapt resource value: 0x7f070001
 			public const int Theme_MediaRouter_Light = 2131165185;
 			
-			// aapt resource value: 0x7f070144
-			public const int Theme_Splash = 2131165508;
+			// aapt resource value: 0x7f070148
+			public const int Theme_Splash = 2131165512;
 			
 			// aapt resource value: 0x7f0700ee
 			public const int ThemeOverlay_AppCompat = 2131165422;
@@ -5488,6 +5794,40 @@ namespace Poker2
 			// aapt resource value: 4
 			public const int FloatingActionButton_rippleColor = 4;
 			
+			public static int[] HoloCircularProgressBar = new int[] {
+					2130772260,
+					2130772261,
+					2130772262,
+					2130772263,
+					2130772264,
+					2130772265,
+					2130772266,
+					2130772267};
+			
+			// aapt resource value: 0
+			public const int HoloCircularProgressBar_circular_gravity = 0;
+			
+			// aapt resource value: 6
+			public const int HoloCircularProgressBar_circular_indeterminate = 6;
+			
+			// aapt resource value: 7
+			public const int HoloCircularProgressBar_circular_indeterminate_interval = 7;
+			
+			// aapt resource value: 3
+			public const int HoloCircularProgressBar_circular_marker_progress = 3;
+			
+			// aapt resource value: 2
+			public const int HoloCircularProgressBar_circular_progress = 2;
+			
+			// aapt resource value: 5
+			public const int HoloCircularProgressBar_circular_progress_background_color = 5;
+			
+			// aapt resource value: 4
+			public const int HoloCircularProgressBar_circular_progress_color = 4;
+			
+			// aapt resource value: 1
+			public const int HoloCircularProgressBar_circular_stroke_width = 1;
+			
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
@@ -5755,6 +6095,64 @@ namespace Poker2
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
+			
+			public static int[] ProgressButton = new int[] {
+					16842970,
+					16842981,
+					16843534,
+					2130772249,
+					2130772250,
+					2130772251,
+					2130772252,
+					2130772253,
+					2130772254,
+					2130772255,
+					2130772256,
+					2130772257,
+					2130772258,
+					2130772259};
+			
+			// aapt resource value: 1
+			public const int ProgressButton_android_clickable = 1;
+			
+			// aapt resource value: 0
+			public const int ProgressButton_android_focusable = 0;
+			
+			// aapt resource value: 2
+			public const int ProgressButton_android_selectableItemBackground = 2;
+			
+			// aapt resource value: 5
+			public const int ProgressButton_circleColor = 5;
+			
+			// aapt resource value: 12
+			public const int ProgressButton_indeterminate = 12;
+			
+			// aapt resource value: 13
+			public const int ProgressButton_indeterminate_interval = 13;
+			
+			// aapt resource value: 10
+			public const int ProgressButton_innerSize = 10;
+			
+			// aapt resource value: 4
+			public const int ProgressButton_max = 4;
+			
+			// aapt resource value: 11
+			public const int ProgressButton_pinned = 11;
+			
+			// aapt resource value: 7
+			public const int ProgressButton_pinnedDrawable = 7;
+			
+			// aapt resource value: 3
+			public const int ProgressButton_progress = 3;
+			
+			// aapt resource value: 6
+			public const int ProgressButton_progressColor = 6;
+			
+			// aapt resource value: 9
+			public const int ProgressButton_shadowDrawable = 9;
+			
+			// aapt resource value: 8
+			public const int ProgressButton_unpinnedDrawable = 8;
 			
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130772225};
@@ -6134,7 +6532,8 @@ namespace Poker2
 					2130772167,
 					2130772168,
 					2130772169,
-					2130772170};
+					2130772170,
+					2130772268};
 			
 			// aapt resource value: 23
 			public const int Theme_actionBarDivider = 23;
@@ -6279,6 +6678,9 @@ namespace Poker2
 			
 			// aapt resource value: 102
 			public const int Theme_checkedTextViewStyle = 102;
+			
+			// aapt resource value: 108
+			public const int Theme_circularProgressBarStyle = 108;
 			
 			// aapt resource value: 83
 			public const int Theme_colorAccent = 83;
