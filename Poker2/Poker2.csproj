@@ -97,6 +97,7 @@
   <ItemGroup>
     <Compile Include="CreateGame.cs" />
     <Compile Include="Helpers\BlindsHelper.cs" />
+    <Compile Include="InGame.cs" />
     <Compile Include="JoinGame.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Models\Blind.cs" />
@@ -114,6 +115,9 @@
     <AndroidResource Include="Resources\drawable\playButton.png" />
     <AndroidResource Include="Resources\layout\CreateGame.axml" />
     <AndroidResource Include="Resources\layout\JoinGame.axml" />
+    <AndroidResource Include="Resources\layout\InGame.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />

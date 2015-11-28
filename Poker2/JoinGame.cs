@@ -11,6 +11,8 @@ namespace Poker2
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.JoinGame);
             // Create your application here
+
+            
         }
     }
 }

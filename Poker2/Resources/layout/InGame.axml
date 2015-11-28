@@ -6,9 +6,14 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <ImageButton
-        android:id="@+id/myButton"
+        android:id="@+id/myButton2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/playButton"
         android:background="@drawable/playbutton" />
+    <com.refractored.monodroidtoolkit.HoloCircularProgressBar
+        android:id="@+id/holoCircularProgressBar1"
+        android:layout_width="wrap_content"
+        android:layout_above="@+id/switch_theme"
+        android:layout_height="fill_parent" />
 </LinearLayout>
