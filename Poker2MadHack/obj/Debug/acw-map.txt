@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Poker2MadHack.CreateGame, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.CreateGame
 Poker2MadHack.CreateGame, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.CreateGame
 Poker2MadHack.CreateGame;md52528fdd87ba99953e8081a73a9416d82.CreateGame
@@ -6,11 +7,20 @@ Poker2MadHack.JoinGame, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.JoinGa
 Poker2MadHack.JoinGame, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.JoinGame
 Poker2MadHack.JoinGame;md52528fdd87ba99953e8081a73a9416d82.JoinGame
 poker2madhack.JoinGame;md52528fdd87ba99953e8081a73a9416d82.JoinGame
+=======
+>>>>>>> origin/master
 Poker2MadHack.MainActivity, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.MainActivity
 Poker2MadHack.MainActivity, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.MainActivity
 Poker2MadHack.MainActivity;md52528fdd87ba99953e8081a73a9416d82.MainActivity
 poker2madhack.MainActivity;md52528fdd87ba99953e8081a73a9416d82.MainActivity
+<<<<<<< HEAD
 Poker2MadHack.SplashActivity, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.SplashActivity
 Poker2MadHack.SplashActivity, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.SplashActivity
 Poker2MadHack.SplashActivity;md52528fdd87ba99953e8081a73a9416d82.SplashActivity
 poker2madhack.SplashActivity;md52528fdd87ba99953e8081a73a9416d82.SplashActivity
+=======
+Poker2MadHack.Circle, Poker2MadHack;md52528fdd87ba99953e8081a73a9416d82.Circle
+Poker2MadHack.Circle, Poker2MadHack, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52528fdd87ba99953e8081a73a9416d82.Circle
+Poker2MadHack.Circle;md52528fdd87ba99953e8081a73a9416d82.Circle
+poker2madhack.Circle;md52528fdd87ba99953e8081a73a9416d82.Circle
+>>>>>>> origin/master

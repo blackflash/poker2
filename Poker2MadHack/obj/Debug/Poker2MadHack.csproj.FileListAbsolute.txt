@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\res\drawable\monoandroidsplash.png
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\res\values\styles.xml
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.dll
@@ -18,3 +19,19 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\uploadflags.txt
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\obj\Debug\Poker2MadHack.dll.mdb
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Poker2MadHack\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.dll.mdb
+=======
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\Poker2MadHack.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.dll
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.pdb
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.Poker2MadHack.apk
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\bin\Debug\Poker2MadHack.Poker2MadHack-Signed.apk
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\Poker2MadHack.dll
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\Poker2MadHack.pdb
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\android\bin\Poker2MadHack.Poker2MadHack.apk
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\res\layout\main.xml
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\res\layout\circle.xml
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\res\values\strings.xml
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\res\drawable\icon.png
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\R.cs.flag
+C:\Users\Andrej\Documents\GitHub\poker2\Poker2MadHack\obj\Debug\uploadflags.txt
+>>>>>>> origin/master

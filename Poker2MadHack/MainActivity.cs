@@ -23,8 +23,12 @@ namespace Poker2MadHack
 
             // Get our button from the layout resource,
             // and attach an event to it
+<<<<<<< HEAD
             var createGamebutton = FindViewById<Button>(Resource.Id.CreateGameButton);
             createGamebutton.Click += delegate { StartActivity(typeof(CreateGame));};
+=======
+            Button button = FindViewById<Button>(Resource.Id.PlayButton);
+>>>>>>> origin/master
 
             var joinGamebutton = FindViewById<Button>(Resource.Id.JoinGameButton);
             joinGamebutton.Click += delegate { StartActivity(typeof(JoinGame)); };
