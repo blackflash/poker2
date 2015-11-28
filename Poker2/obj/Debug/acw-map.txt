@@ -2,6 +2,10 @@ Poker2.CreateGame, Poker2;md52a36bd41885cdea3e5f0e2d540d865cc.CreateGame
 Poker2.CreateGame, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52a36bd41885cdea3e5f0e2d540d865cc.CreateGame
 Poker2.CreateGame;md52a36bd41885cdea3e5f0e2d540d865cc.CreateGame
 poker2.CreateGame;md52a36bd41885cdea3e5f0e2d540d865cc.CreateGame
+Poker2.InGame, Poker2;md52a36bd41885cdea3e5f0e2d540d865cc.InGame
+Poker2.InGame, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52a36bd41885cdea3e5f0e2d540d865cc.InGame
+Poker2.InGame;md52a36bd41885cdea3e5f0e2d540d865cc.InGame
+poker2.InGame;md52a36bd41885cdea3e5f0e2d540d865cc.InGame
 Poker2.JoinGame, Poker2;md52a36bd41885cdea3e5f0e2d540d865cc.JoinGame
 Poker2.JoinGame, Poker2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52a36bd41885cdea3e5f0e2d540d865cc.JoinGame
 Poker2.JoinGame;md52a36bd41885cdea3e5f0e2d540d865cc.JoinGame

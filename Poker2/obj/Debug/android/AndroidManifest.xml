@@ -3,6 +3,7 @@
   <uses-sdk android:minSdkVersion="16" />
   <application android:label="Poker2" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:label="CreateGame" android:name="md52a36bd41885cdea3e5f0e2d540d865cc.CreateGame" />
+    <activity android:icon="@drawable/icon" android:label="Poker2MadHack" android:screenOrientation="landscape" android:name="md52a36bd41885cdea3e5f0e2d540d865cc.InGame" />
     <activity android:label="JoinGame" android:name="md52a36bd41885cdea3e5f0e2d540d865cc.JoinGame" />
     <activity android:icon="@drawable/icon" android:label="Poker2MadHack" android:screenOrientation="landscape" android:name="md52a36bd41885cdea3e5f0e2d540d865cc.MainActivity" />
     <activity android:noHistory="true" android:screenOrientation="landscape" android:theme="@style/Theme.Splash" android:name="md52a36bd41885cdea3e5f0e2d540d865cc.SplashActivity" />
